@@ -4,7 +4,10 @@ export class Pushbell implements INodeType {
     description: INodeTypeDescription = {
         displayName: 'PushBell',
         name: 'pushbell',
-        icon: 'file:../../icons/github.svg',
+        icon: {
+            light: 'file:../../icons/Icon-iOS-Default.png',
+            dark: 'file:../../icons/Icon-iOS-Dark.png',
+        },
         group: ['output'],
         version: 1,
         description: 'Send notifications via the PushBell API',

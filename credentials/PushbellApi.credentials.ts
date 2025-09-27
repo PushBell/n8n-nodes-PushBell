@@ -11,7 +11,7 @@ export class PushbellApi implements ICredentialType {
 
 	displayName = 'PushBell API';
 
-	icon: Icon = { light: 'file:../icons/pushbell.svg', dark: 'file:../icons/pushbell.dark.svg' };
+	icon: Icon = { light: 'file:../icons/Icon-iOS-Default.png', dark: 'file:../icons/Icon-iOS-Dark.png' };
 
 	documentationUrl =
 		'https://pushbell.info/integrationsapi';
