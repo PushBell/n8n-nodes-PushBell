@@ -1,15 +1,15 @@
 {
     "name": "n8n-nodes-pushbell",
     "version": "0.1.0",
-    "description": "n8n community node to work with the GitHub Issues API",
+    "description": "n8n community node to work with the PushBell API",
     "license": "MIT",
-    "homepage": "https://example.com",
+    "homepage": "https://pushbell.info",
     "keywords": [
         "n8n-community-node-package"
     ],
     "author": {
         "name": "Marius Lang",
-        "email": "marius.lang@uni-bamberg.de"
+        "email": "marius@mariuslang.de"
     },
     "repository": {
         "type": "git",
