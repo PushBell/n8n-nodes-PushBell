@@ -3,6 +3,7 @@
 <p align="center">
   <img src="icons/Icon-iOS-Default.png" alt="logo" width="30%"/>
 </p>
+
 This is an n8n community node for sending push notifications via the [PushBell API](https://PushBell.info).
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
